@@ -1,3 +1,6 @@
 Flitter!
 
 A Twitter clone implemented in rails 3 based on Cavneb's original project.
+
+Current issues:
+ - Button for search bar does not submit the form (pressing return does however)
